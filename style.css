@@ -11,7 +11,7 @@ body {
   width: 35%;
   height: 300px; /* 500px */
   margin: auto;
-  margin-top: 15%;
+  margin-top: 8%;
 }
 .title {
   text-align: center;
@@ -36,8 +36,7 @@ body {
   font-weight: bold;
 }
 .qr-code {
-  margin-top: 40px;
-  margin-left: 35%;
+  margin-top: 60px;
 }
 img {
   margin-top: 40px;
